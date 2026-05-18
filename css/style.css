@@ -1,0 +1,64 @@
+.ubuntu-light {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.ubuntu-regular {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ubuntu-medium {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.ubuntu-bold {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ubuntu-light-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.ubuntu-regular-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.ubuntu-medium-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.ubuntu-bold-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+* {
+    font-family: "Ubuntu", sans-serif;
+}
+
+.text-bg-dark {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#20448c+0,086cb4+100 */
+    background: linear-gradient(to bottom,  #20448c 0%,#086cb4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
