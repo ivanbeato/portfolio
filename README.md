@@ -240,34 +240,135 @@ Busco una oportunidad en un entorno desafiante y colaborativo donde pueda aporta
 | 1 | **Curso completo de Go (Golang). Desde 0 a Proyectos reales** | Udemy | 15 h |
 | 2 | **Google Cloud CI/CD Pipelines (CGP DevOps Engineer Track Part 3)** | A Cloud Guru | 7.5 h |
 | 3 | **Certified Entry-Level Python Programmer Certification** | A Cloud Guru | 10 h |
-| 4 | **** | A Cloud Guru |  h |
-| 5 | **** | A Cloud Guru |  h |
-| 6 | **** | A Cloud Guru |  h |
-| 7 | **** | A Cloud Guru |  h |
-| 8 | **** | A Cloud Guru |  h |
-| 9 | **** | A Cloud Guru |  h |
-| 10 | **** | A Cloud Guru |  h |
-| 11 | **** | A Cloud Guru |  h |
-| 12 | **** | A Cloud Guru |  h |
-| 13 | **** | A Cloud Guru |  h |
-| 14 | **** | A Cloud Guru |  h |
-| 15 | **** | A Cloud Guru |  h |
-| 16 | **** | A Cloud Guru |  h |
-| 17 | **** | A Cloud Guru |  h |
-| 18 | **** | A Cloud Guru |  h |
-| 19 | **** | A Cloud Guru |  h |
-| 20 | **** | A Cloud Guru |  h |
-| 21 | **** | A Cloud Guru |  h |
-| 22 | **** | A Cloud Guru |  h |
-| 23 | **** | A Cloud Guru |  h |
-| 24 | **** | A Cloud Guru |  h |
-| 25 | **** | A Cloud Guru |  h |
-| 26 | **** | A Cloud Guru |  h |
-| 27 | **** | A Cloud Guru |  h |
-| 28 | **** | A Cloud Guru |  h |
-| 29 | **** | A Cloud Guru |  h |
-| 30 | **** | A Cloud Guru |  h |
-| 31 | **** | A Cloud Guru |  h |
-| 32 | **** | MicroForum |  h |
-| 33 | **** | MicroForum |  h |
-| 34 | **** | MicroForum |  h |
+| 4 | **Expanding Your JS Skills with Angular** | A Cloud Guru | 2.5 h |
+| 5 | **Expanding Your JS Skills with React** | A Cloud Guru | 1.5 h |
+| 6 | **GUI Programming with Python** | A Cloud Guru | 2.5 h |
+| 7 | **Introduction to JavaScript** | A Cloud Guru | 2 h |
+| 8 | **Blockchain Essentials** | A Cloud Guru | 16.5 h |
+| 9 | **Blockchain Explained** | A Cloud Guru | 0.5 h |
+| 10 | **Develop Python Comprehensions** | A Cloud Guru | 2 h |
+| 11 | **Deploying to AWS with Terraform and Ansible** | A Cloud Guru | 6 h |
+| 12 | **HashiCorp Certified Terraform Associate** | A Cloud Guru | 11.5 h |
+| 13 | **Python 3 Scripting for System Administrators** | A Cloud Guru | 10 h |
+| 14 | **Introduction to Jupyter Notebooks** | A Cloud Guru | 3.5 h |
+| 15 | **Puppet Quick Start** | A Cloud Guru | 4.5 h |
+| 16 | **Automating AWS with Lambda, Python and Boto3** | A Cloud Guru | 11 h |
+| 17 | **LPI DevOps Tools Engineer Certification** | A Cloud Guru | 32 h |
+| 18 | **HashiCorp Packer** | A Cloud Guru | 12 h |
+| 19 | **Implementing a Full CI/CD Pipeline** | A Cloud Guru | 23 h |
+| 20 | **System Tooling with Go** | A Cloud Guru | 6.5 h |
+| 21 | **Jenkins Quick Start** | A Cloud Guru | 1.5 h |
+| 22 | **Introduction to Python Development** | A Cloud Guru | 15.5 h |
+| 23 | **Ansible Quick Start** | A Cloud Guru | 2.5 h |
+| 24 | **DevSecOps Essentials** | A Cloud Guru | 6.5 h |
+| 25 | **DevOps Essentials** | A Cloud Guru | 4 h |
+| 26 | **Source Control with Git** | A Cloud Guru | 5.5 h |
+| 27 | **Ansible: Setup, Configure, and Ad Hoc Commands Deep Dive** | A Cloud Guru | 5 h |
+| 28 | **Ansible: Playbooks Deep Dive** | A Cloud Guru | 7 h |
+| 29 | **Learning Ansible by Doing** | A Cloud Guru | 13.5 h |
+| 30 | **Introduction to Ansible v2.7** | A Cloud Guru | 3.5 h |
+| 31 | **Introduction to Python Scripting** | A Cloud Guru | 5.5 h |
+| 32 | **IFCD017PO: Desarrollo de Aplicaciones para Internet y Dispositivos Móviles** | MicroForum | 50 h |
+| 33 | **IFCD057PO: Desarrollo de Aplicaciones con Spring e Hibernate** | MicroForum | 30 h |
+| 34 | **IFCD033PO: Java** | MicroForum | 60 h |
+
+### **Gestión de proyectos** (2 cursos - 56 horas)
+
+| **#** | **Formación** | **Centro** | **Duración** |
+|---|---|---|---|
+| 1 | **PMP - Project Management Professional** |  | 40 h |
+| 2 | **Microsoft Project** | R.S.P. | 16 h |
+
+### **Networking** (24 cursos - 370.5 horas)
+
+| **#** | **Formación** | **Centro** | **Duración** |
+|---|---|---|---|
+| 1 | **Configuring Junos Devices** | CBT Nuggets | 3.5 h |
+| 2 | **Juniper JNCIA-Junos (JN0-104)** | CBT Nuggets | 14 h |
+| 3 | **Junos Routing Fundamentals** | CBT Nuggets | 2 h |
+| 4 | **Junos Routing Policy and Firewall Filters** | CBT Nuggets | 2 h |
+| 5 | **Monitoring and Maintaining Junos Devices** | CBT Nuggets | 1 h |
+| 6 | **Junos User Interface** | CBT Nuggets | 2 h |
+| 7 | **Junos OS Fundamentals** | CBT Nuggets | 1 h |
+| 8 | **Cisco VPN** | CBT Nuggets | 5 h |
+| 9 | **Border Gateway Protocol (BGP)** | CBT Nuggets | 18 h |
+| 10 | **How to Design Advanced Cisco Networks using BGP Routing** | CBT Nuggets | 3.5 h |
+| 11 | **Cisco CCNP Enterprise Core (350-401 ENCOR)** | CBT Nuggets | 50 h |
+| 12 | **Using REST APIs and JSON** | CBT Nuggets | 4.5 h |
+| 13 | **Cisco OSPF Configuration** | CBT Nuggets | 11 h |
+| 14 | **Cisco CCNP Enterprise Advanced Routing and Services (300-410 ENARSI)** | CBT Nuggets | 27 h |
+| 15 | **How to Troubleshoot Cisco Routers and Control Plane Policing** | CBT Nuggets | 3 h |
+| 16 | **How to Troubleshoot the BGP Protocol** | CBT Nuggets | 3.5 h |
+| 17 | **Cisco OSPF Troubleshooting** | CBT Nuggets | 6 h |
+| 18 | **How to Perform EIGRP Configuration and EIGRP Troubleshooting** | CBT Nuggets | 3.5 h |
+| 19 | **SDWAN300 - Implementing Cisco SD-WAN Solutions** | Global Knowledge | 35 h |
+| 20 | **ROUTE - Implementing Cisco IP Routing v2.0** | Global Knowledge | 35 h |
+| 21 | **CICD - Implementing Cisco Collaboration Devices v1.0** | Global Knowledge | 35 h |
+| 22 | **VSICM - VMware vSphere: Install, Configure, Manage v6.0** | Global Knowledge | 35 h |
+| 23 | **WIDEPLOY - Deploying Cisco Wireless Enterprise Networks v1.0** | Global Knowledge | 35 h |
+| 24 | **SISE - Implementing and Configuring Cisco Identity Services Engine v1.3** | Global Knowledge | 35 h |
+
+### **Diseño Gráfico** (1 curso - 268 horas)
+
+| **#** | **Formación** | **Centro** | **Duración** |
+|---|---|---|---|
+| 1 | **Diseño Gráfico para Aplicaciones Multimedia** | Servicio Regional de Empleo | 268 h |
+
+### **Estudios en Ingeniería Técnica en Informática de Sistemas**
+
+## **Otros conocimientos**
+
+### **Sistemas Operativos**
+
+Amplia experiencia en entornos multiplataforma, incluyendo **Linux** (Red Hat, Oracle Linux, Ubuntu), **UNIX** (Solaris HPUX), **Macintosh** y **Windows Server**. Familiaridad con administración de sistemas en entornos híbridos y cloud-based.
+
+### **Servicios de Infraestructura**
+
+Gestión y configuración de servicios críticos como **Active Directory**, **Microsoft Exchange**, **Bind9**, **Apache Web Server**, **IIS**, **vsFTP**, **WSUS**, así como motores de bases de datos relacionales y NoSQL (**MySQL**, **MongoDB**).
+
+### **Cloud, Virtualización y Contenedores**
+
+Experiencia práctica con tecnologías de virtualización (**VMware**, **Proxmox**, **KVM**) y contenedores (**Docker**, **LXC/LXD**), incluyendo orquestación con **Kubernetes**. Conocimientos aplicados en entornos compatibles con **AWS** y prácticas **DevOps**.
+
+### **Automatización y Scripting**
+
+Sólido dominio en automatización de tareas mediante scripting en **Python**, **Bash Shell Script**, **Perl** y **VBScript**, aplicados a mantenimiento, despliegue y supervisión de sistemas y redes
+
+### **Lenguajes y Desarrollo**
+
+Conocimientos en desarrollo web y backend con **HTML**, **CSS**, **JavaScript**, **PHP**, **Python** y **Java**. Experiencia con frameworks como **Spring**, **Hibernate**, **JQuery** y **Bootstrap**.
+
+### **DevOps y Herramientas CI/CD**
+
+Conocimientos de prácticas modernas de integración y entrega continua (**CI/CD**), uso de **Git**, y adaptación de código en pipelines automatizados.
+
+### **CMS y Gestión Web**
+
+Administración de sitios y plataformas web mediante **WordPress**, **Joomla**, **Drupal** y **OpenCart**.
+
+### **Herramientas de Productividad y Colaboración**
+
+Dominio avanzado de herramientas de **Microsoft 365** y suites alternativas (**LibreOffice**, **OpenOffice**).
+
+### **Diseño Gráfico y Multimedia**
+
+Competencia en herramientas **Adobe Creative Cloud** y modelado 3D con **Autodesk 3D Studio Max**.
+
+## **Conferencias y Seminarios**
+
+| **#** | **Nombre del evento** | **Lugar** | **Organizador** | **Fecha** |
+|---|---|---|---|---|
+| 1 | **Global AI Bootcamp 2025 Madrid** | Escuela Politécnica Superior CEU San Pablo (Boadilla del Monte) | Global AI Community | 2025 |
+| 2 | **Data Saturday Madrid 2024** | E.T.S.I. Universidad Politécnica de Madrid | PowerBI Español | 2024 |
+| 3 | **Microsoft Office System 2003 Madrid** | Palacio Municipal IFEMA Madrid | Microsoft España | 2003 |
+| 4 | **Interactividad** | Facultad de Ciencias de la Información | Universidad Complutense de Madrid | 2001 |
+| 5 | **eCommerce** | Universidad Antonio Nebrija (Dehesa de la Villa) | Universidad Antonio Nebrija | 1999 |
+
+## **Competencias de idiomas**
+
+| **#** | **Idioma** | **Nivel** |
+|---|---|---|
+| 1 | **Español** | Nativo |
+| 2 | **Inglés** | C1 |
+| 3 | **Francés** | A1 |
+
